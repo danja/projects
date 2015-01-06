@@ -3,7 +3,9 @@ Projects
 
 Top-level notes etc. on all my software projects. They tend to be very intertwingled.
 
-(still more to add)
+
+I ran out of money and lost my domain names, am now in te process of setting things up again. 
+
 
 Hyperdata
 =========
