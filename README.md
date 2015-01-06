@@ -6,6 +6,9 @@ Top-level notes etc. on all my software projects. They tend to be very intertwin
 
 I ran out of money and lost my domain names, am now in te process of setting things up again. 
 
+# Currently Active Projects
+
+## [Thiki](Thiki)
 
 Hyperdata
 =========
@@ -15,13 +18,6 @@ Hyperdata will be my personal linked data cloud
 
 [wiki](http://hyperdata.org/wiki/hyperdata)
 
-Scute
-=====
-Scute is a Semantic Web hacking utility
-
-[github](https://github.com/danja/Scute)
-
-[wiki](http://hyperdata.org/wiki/Scute)
 
 Seki
 ====
@@ -30,6 +26,16 @@ Seki is a front end to a SPARQL store
 [github](https://github.com/danja/seki)
 
 [wiki](http://hyperdata.org/wiki/Seki)
+
+# Projects on Pause
+
+Scute
+=====
+Scute is a Semantic Web hacking utility
+
+[github](https://github.com/danja/Scute)
+
+[wiki](http://hyperdata.org/wiki/Scute)
 
 Manuel
 ======
